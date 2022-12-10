@@ -1,0 +1,118 @@
+
+.img1{
+  width:23%;
+  height:15vh;
+  margin-left: 6vh;
+}
+.img2{
+	margin-left: 90vh;
+	height: 8vh;
+	width: 25%;
+	margin-right: 6vh;
+}
+
+.img3{
+	height: 79vh;
+	width: 95%;
+  margin-left: 6vh;
+  margin-right: 6vh;
+
+
+}
+
+.img4{
+   margin-left: 6vh;
+   width: 120%;
+   height: 106vh;
+}
+
+
+h1{
+	width: 60%;
+	height:40vh;
+	margin-left: 19vh;
+	font-size: 25px;
+  margin-bottom: 1vh;
+	
+}
+.item3{
+	display: flex;
+	flex-direction: row;
+}
+
+.text{
+   display: flex;
+	flex-direction: row;
+}
+
+.item5{
+	width: 100%;
+	height: 45vh;
+}
+.imagemc{
+	width: 100%;
+	height: 40vh;
+	margin-right: 4vh;
+}
+
+.itemA{
+	width: 195%;
+	height: 110vh;
+	margin-right: 4vh;
+}
+
+
+
+.imagenspaises{
+	
+	 
+}
+
+.imgcro{
+	width: 10%;
+	height: 12vh;
+	margin-left: 27%;
+	margin-top: -22%;
+	float: left;
+	
+}
+.imgbel{
+	width: 10%;
+	height: 12vh;
+	margin-top:-35%;
+	margin-left: 27%;
+	float: left;	
+}
+.imgmar{
+	width: 10%;
+	height: 12vh;
+	margin-left:27%;
+	margin-top: -25.5%;
+	float: left;
+}	
+
+.imgcan{
+	width: 10%;
+	height: 12vh;
+	margin-top: -30.5%;
+	margin-left: 27%;
+	float: left;
+	
+}
+.p{
+	float: left;
+}
+
+@media(max-width: 700px){
+	.p{
+		width: 50%;
+	}
+	.imagemc{
+		width: 50%;
+	}
+	
+	.img4{
+    display:none;
+	}
+
+	
